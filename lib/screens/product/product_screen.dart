@@ -118,7 +118,7 @@ class ProductScreen extends StatelessWidget {
                                     padding: const EdgeInsets.symmetric(
                                         horizontal: kDefaultPadding),
                                     child: Text(
-                                      "Classic Leather Arm Chair",
+                                      "Leather Arm chair",
                                       style: Theme.of(context).textTheme.button,
                                     ),
                                   ),
